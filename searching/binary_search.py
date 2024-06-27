@@ -8,19 +8,17 @@ The idea of binary search is to use the information that the array sorted and re
 
 
 def binary_search(arr, target):
-    left=0
-    right=len(arr)-1
-    while left<=right:
-        mid=left+(right-left)//2
-        if arr[mid]==target:
+    left = 0
+    right = len(arr) - 1
+    while left <= right:
+        mid = left + (right - left) // 2
+        if arr[mid] == target:
             return mid
-        elif arr[mid]<target:
-            left=mid+1
+        elif arr[mid] < target:
+            left = mid + 1
         else:
-            right=mid-1
+            right = mid - 1
     return -1
-
-
 
 
 class TestBinarySearch(unittest.TestCase):
@@ -64,6 +62,7 @@ class TestBinarySearch(unittest.TestCase):
         arr = ["apple", "banana", "cherry", "date"]
         self.assertEqual(binary_search(arr, "date"), 3)
         self.assertEqual(binary_search(arr, "apple"), 0)
+
 
 if __name__ == '__main__':
     print("Test starts")
