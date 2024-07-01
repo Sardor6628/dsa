@@ -4,14 +4,14 @@ import math
 
 def jump_search(arr, target):
     n = len(arr)
-    step = math.sqrt(n)
     prev = 0
+    step = math.sqrt(n)
     if n == 0:
         return -1
-    while arr[int(min(step, n) - 1)] < target:
+    while arr[int(min(step, n)) - 1] < target:
         prev = step
         step += math.sqrt(n)
-        if prev >= n:
+        if prev > n:
             return -1
     while arr[int(prev)] < target:
         prev += 1
@@ -70,4 +70,6 @@ class TestJumpSearch(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main()
+    # unittest.main()
+    unittest.result()
+    unittest.removeResult()
