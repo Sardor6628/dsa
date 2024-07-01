@@ -3,6 +3,7 @@ Selection sort is a simple and efficient sorting algorithm that works by repeate
 """
 import unittest
 
+
 def selection_sort(arr):
     n = len(arr)
     for i in range(n - 1):
@@ -32,6 +33,7 @@ class TestSelectionSort(unittest.TestCase):
 
     def test_duplicate_elements(self):
         self.assertEqual(selection_sort([4, 5, 5, 4, 3, 3, 2, 1]), [1, 2, 3, 3, 4, 4, 5, 5])
+
 
 if __name__ == '__main__':
     unittest.main()
