@@ -1,0 +1,68 @@
+분류,사이트명,English Site Name,설명,Description
+"건강, 의료",HIRA빅데이터개방포털,HIRA Big Data Open Portal,건강보험심사평가원 보유 다양한 보건의료데이터 개방,Various healthcare data held by the Health Insurance Review & Assessment Service
+"건강, 의료",보건의료지도,Healthcare Map,건강보험심사평가원에서 의료기관/ 의료자원현황/ 의료자원분포/ 질병통계/ 의료경영지원정보 등의 보건의료지도 제공,"Provides healthcare maps such as medical institutions, medical resources status, medical resources distribution, disease statistics, and medical management support information from the Health Insurance Review & Assessment Service"
+"건강, 의료",응급의료통계 (국립중앙의료원),Emergency Medical Statistics (National Medical Center),국립중앙의료원에서 제공하는 응급의료 통계 자료,Emergency medical statistics provided by the National Medical Center
+"건강, 의료",건강보험통계 (국민건강보험),Health Insurance Statistics (National Health Insurance),건강보험통계에서 제공하는 건강보험 통계연보 제공,Provides health insurance statistical yearbook from health insurance statistics
+"건강, 의료",고용보험 통계,Employment Insurance Statistics,월별로 고용보험통계 자료 제공,Provides monthly employment insurance statistics data
+"건강, 의료",생명보험 통계 (생명보험협회),Life Insurance Statistics (Life Insurance Association),생명보험협회에서 금융통계월보(생명보험편) 제공,Provides financial statistics monthly report (life insurance edition) from the Life Insurance Association
+"건강, 의료",월간생명보험통계 (생명보험협회),Monthly Life Insurance Statistics (Life Insurance Association),생명보험협회에서 월간생명보험통계 제공,Provides monthly life insurance statistics from the Life Insurance Association
+"건강, 의료",사이즈코리아 (한국인인체치수조사),Size Korea (Korean Anthropometric Survey),한국인 인체표준정보 DB,Korean body standard information DB
+"건강, 의료",보건복지데이터포털 (한국보건사회연구원),Health and Welfare Data Portal (Korea Institute for Health and Social Affairs),보건복지 분야 마이크로데이터,Microdata in the field of health and welfare
+관광,한국관광 데이터랩,Korea Tourism Data Lab,"한국관광공사에서 운영하는 이동통신, 신용카드, 내비게이션, 관광통계, 조사연구 등 관광 빅데이터 및 융합분석 서비스 제공 사이트","Site providing tourism big data and convergence analysis services such as mobile communication, credit cards, navigation, tourism statistics, and research operated by the Korea Tourism Organization"
+교육,교육통계서비스 (KESS한국교육개발원),Education Statistics Service (KESS Korea Education Development Institute),전 생애주기에 걸친 국가 교육 통계자료를 제공 사이트,Site providing national education statistics across the life cycle
+교육,교육 통계 서비스,Education Statistics Service,한국교육개발원 소속 국가 교육통계사업 수행 전담 조직에서 제공하는 전 생애주기에 걸친 교육통계 제공 사이트,Site providing education statistics across the life cycle provided by the national education statistics project dedicated organization affiliated with the Korea Education Development Institute
+교통,국가교통부 데이터 통합 채널,National Transportation Department Data Integration Channel,국토교통부에서 제공하는 국토교통 관련 정보시스템에서 구축한 데이터 제공 사이트,"Site providing data built from the land and transportation information system provided by the Ministry of Land, Infrastructure and Transport"
+교통,SK open API,SK open API,"SK 교통/위치 데이터 (TMAP, TMAP TMS, TMAP 대중교통, OVS)","SK traffic/location data (TMAP, TMAP TMS, TMAP public transport, OVS)"
+교통,국가교통 데이터 오픈마켓,National Transportation Data Open Market,"국토, 교통 데이터 제공",Provides land and transportation data
+교통,국가교통DB,National Transportation DB,국가 교통 DB를 정보공개제도 공공데이터 제공,Provides national transportation DB public data through the information disclosure system
+교통,고속도로 공공데이터 포털 (한국도로공사),Highway Public Data Portal (Korea Expressway Corporation),한국도로공사에서 제공하는 고속도로 공공데이터 제공,Provides highway public data provided by the Korea Expressway Corporation
+금융,금융데이터 거래소,Financial Data Exchange,금융권 데이터를 유통 전단계에 걸쳐 안전하게 서비스 제공,Provides safe service throughout all stages of financial data distribution
+금융,금융 빅데이터 플랫폼,Financial Big Data Platform,금융 빅데이터 거래소,Financial Big Data Exchange
+기상,기상 자료 개방 포털,Meteorological Data Open Portal,기상청에서 제공하는 기상기후 및 날씨 데이터 제공 사이트,Site providing weather and climate data provided by the Korea Meteorological Administration
+기상,에어코리아,Air Korea,한국환경공단에서 제공하는 전국 실시간 대기환경 데이터 제공 사이트,Site providing real-time nationwide air quality data provided by the Korea Environment Corporation
+기타,서울열린데이터광장,Seoul Open Data Plaza,공공데이터 제공 서비스,Public data provision service
+기타,경기데이터 드림,Gyeonggi Data Dream,경기도 공공데이터 개방 포털,Gyeonggi-do public data open portal
+농업,한국농촌경제연구원,Korea Rural Economic Institute,한국농촌경제 연구원 공개 데이터 사이트,Korea Rural Economic Institute public data site
+농업,농식품수출정보,Agri-Food Export Information,월별로 농림수산식품 수출동향 및 통계자료 제공,Provides monthly agricultural and fishery food export trends and statistics
+농업,농식품수출정보,Agri-Food Export Information,월별로 농림수산식품 수출동향 및 통계자료 제공,Provides monthly agricultural and fishery food export trends and statistics
+농업,낙농진흥회 낙농 통계,Dairy Promotion Association Dairy Statistics,분기별 국내/회애 낙농 통계 자료 제공,Provides quarterly domestic/foreign dairy statistics
+농업,농어촌알리미 관심지역농업통계,Rural Informer Agricultural Statistics of Interest Area,귀농귀촌 정보 및 농업에 대한 통계 자료 제공,Provides information on returning to farming and rural migration and agricultural statistics
+농업,농업관측통계정보시스템,Agricultural Observation Statistics Information System,농업 관측 통계정보시스템,Agricultural Observation Statistics Information System
+농업,검역검사통계 (농림축산검역본부),Quarantine Inspection Statistics (Animal and Plant Quarantine Agency),농림축산검역본부에서 제공하는 축산무 검역검사 통계,Quarantine inspection statistics provided by the Animal and Plant Quarantine Agency
+문화예술,국가도서관통계시스템 (문화체육관광부),"National Library Statistics System (Ministry of Culture, Sports and Tourism)",국내 도서관 통계,Domestic library statistics
+문화예술,출판산업 통계 (대한출판문화협회),Publishing Industry Statistics (Korean Publishers Association),출판산업에 대한 년도별 통계자료 제공,Provides annual statistics on the publishing industry
+문화예술,영화산업통계 (영화진흥위원회),Film Industry Statistics (Korean Film Council),영화진흥위원회 월별 각종 영화산업 통계자료 제공,Provides various monthly film industry statistics from the Korean Film Council
+문화예술,문화 빅데이터 플랫폼,Culture Big Data Platform,한국문화정보원 문화 분야 데이터 제공 사이트,Site providing data in the field of culture from the Korea Culture Information Service Agency
+문화예술,문화체육관광부 통계포털,"Ministry of Culture, Sports and Tourism Statistics Portal",문화체육관광 분야 대표 통계포털시스템,"The representative statistical portal system in the field of culture, sports, and tourism"
+법률,대검찰청 공공데이터 (검찰청),Supreme Prosecutors' Office Public Data (Prosecutors' Office),검찰청 공공 데이터 제공,Provides public data from the Prosecutors' Office
+법률,법무부 공공데이터,Ministry of Justice Public Data,법무부 공공데이터,Ministry of Justice public data
+보건,보건의료 빅데이터 개방시스템,Healthcare Big Data Open System,건강보험심사평가원 의료 공공 데이터,Public medical data from the Health Insurance Review & Assessment Service
+부동산,건축 데이터 개방 (건축데이터민간개방시스템),Construction Data Open (Construction Data Private Open System),국토교통부 건축데이터 제공,"Provides construction data from the Ministry of Land, Infrastructure and Transport"
+부동산,실거래가 공개시스템 (국토교통부),"Actual Transaction Price Open System (Ministry of Land, Infrastructure and Transport)",국토교통부 실거래 공개시스템,"Actual transaction disclosure system of the Ministry of Land, Infrastructure and Transport"
+부동산,국토교통통계누리 (국토교통부),"Land Transport Statistics Nuri (Ministry of Land, Infrastructure and Transport)",국토교통 주요 통계 제공 통계 서비스 포털,Statistical service portal providing major statistics on land and transportation
+산업 고용,고용노동통계,Employment and Labor Statistics,고용노동 통계 정보를 이용할 수 있는 사이트,Site for utilizing employment and labor statistics information
+산업 고용,중소기업통계DB (중소기업중앙회),SME Statistics DB (Korea Federation of SMEs),중소기업통계 DB를 이용할 수 있는 사이트,Site for utilizing SME statistics DB
+소비,생활산업통계 (한국디자인진흥원),Living Industry Statistics (Korea Institute of Design Promotion),한국디자인진흥원에서 생활소비재산업 통계자료 제공,Provides living consumer goods industry statistics from the Korea Institute of Design Promotion
+소비,한국소비자원참가격,Korea Consumer Agency Price Information,한국소비자원 운영 가격정보 종합 포털사이트,Comprehensive portal site for price information operated by the Korea Consumer Agency
+자원환경,물환경정보시스템,Water Environment Information System,"지리정보 기반의 수질, 생물, 유량, 퇴적물 등 종합 정보 제공","Provides comprehensive information on water quality, biology, flow, sediment, etc., based on geographic information"
+자원환경,자원순환마루 (자원순환정보시스템),Resource Circulation Maru (Resource Circulation Information System),폐기물·재활용 분야 국가승인통계 작성·공표 통계,Provides national approved statistics in the field of waste and recycling
+자원환경,환경통계포털 (환경부),Environmental Statistics Portal (Ministry of Environment),국내 환경산업 실태조사 통계 정보 제공,Provides statistics on the actual conditions of the domestic environmental industry
+자원환경,대기환경 통계정보 (에어코리아),Air Quality Statistics Information (Air Korea),대기환경 월간/연간 통계 정보 제공,Provides monthly/annual air quality statistics
+자원환경,전력통계정보시스템,Power Statistics Information System,전력산업 통계를 제공,Provides statistics on the power industry
+재난,재난안전데이터 공유 플랫폼,Disaster Safety Data Sharing Platform,재난안전 데이터 제공 사이트,Site providing disaster safety data
+통합,부산 공공데이터 포털,Busan Public Data Portal,부산 공공데이터 제공 통합 사이트,Integrated site providing Busan public data
+통합,부산광역시 빅데이터 플랫폼,Busan Metropolitan City Big Data Platform,부산시 빅데이터 플랫폼 사이트,Busan city big data platform site
+통합,공공 데이터 포털,Public Data Portal,공공기관이 공공데이터 제공 통합 창구 사이트,Integrated portal site for public data provided by public institutions
+통합,국가 통계 포털,National Statistics Portal,통계청이 제공하는 One-Stop 통계 서비스,One-stop statistics service provided by Statistics Korea
+통합,마이크로데이터 통합서비스,Microdata Integrated Service,"정부 각 부처, 지자체, 연구기관 등 마이크로데이터를 한 곳에 모아 다양한 통계자료를 편리하게 이용할 수 있도록 서비스","Service that collects microdata from various government departments, local governments, and research institutions in one place for convenient use of various statistical data"
+통합,지표누리,Indicator Nuri,"e-나라지표, 국가발전지표, 한국의 사회지표, 국민 삶의 질 지표, 저출산 통계지표, 지속가능발전목표 등 제공","Provides e-Nara indicators, national development indicators, Korea's social indicators, quality of life indicators, low birth rate statistics, sustainable development goals, etc."
+통합,통합 데이터 지도,Integrated Data Map,공공과 민간에서 제공하는 데이터를 쉽게 검색∙활용할 수 있도록 지원,Supports easy search and utilization of data provided by the public and private sectors
+통합,SGIS (통계지리정보서비스),SGIS (Statistical Geographic Information Service),SGIS(Statistical Geographic Information Service) 기반 개방형 플랫폼,Open platform based on SGIS (Statistical Geographic Information Service)
+통합,공공데이터포털,Public Data Portal,국가 공공데이터 포털,National public data portal
+통합,지방행정 인허가 데이터 개방 (행안부),Local Government Authorization Data Open (Ministry of the Interior and Safety),"식품,문화,의료,물류 등 195종의 인허가 데이터 제공","Provides 195 types of authorization data such as food, culture, medical, and logistics"
+해양,해양수산 빅데이터 플랫폼,Marine and Fisheries Big Data Platform,"해양, 수산, 해운물류, 해사안전, 항만분야 데이터 제공 사이트","Site providing data in the fields of marine, fisheries, shipping logistics, maritime safety, and ports"
+해양,바다누리 해양정보 서비스,Sea Nuri Marine Information Service,국립해양조사원의 국가해양관측망 관측 데이터,Observation data from the national marine observation network of the National Marine Survey Agency
+해양,실시간 해양수산환경 관측 시스템,Real-Time Marine and Fisheries Environment Observation System,국립수산과학원 운영 실시간 해양수산환경 관측자료 제공,Provides real-time marine and fisheries environment observation data operated by the National Fisheries Research and Development Institute
+해양,해상수산부 통계시스템,Maritime and Fisheries Statistics System,해양수산분야의 다양한 통계정보 이용 사이트,Site for utilizing various statistical information in the field of marine and fisheries
+해양,해운항만통계 (한국해양수산개발원),Shipping and Port Statistics (Korea Maritime Institute),한국해양수산개발원 제공 해양수산통계 자료 이용 사이트,Site for utilizing marine and fisheries statistics provided by the Korea Maritime Institute
+행정,수출입무역통계 (관세청),Export-Import Trade Statistics (Customs Service),관세청 제공 수출입무역통계 자료 사이트,Site for utilizing export-import trade statistics provided by the Customs Service
