@@ -12,7 +12,6 @@ def merge(left, right):
             j += 1
     result.extend(left[i:])
     result.extend(right[j:])
-    result.sort()
     return result
 
 
